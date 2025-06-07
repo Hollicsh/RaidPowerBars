@@ -1,4 +1,4 @@
-## Interface: 110107
+## Interface: 110105, 110107
 ## Title: Details Raid Power Bars (plugin)
 ## Notes: Plugin for Details
 ## SavedVariablesPerCharacter: _detalhes_databaseRaidPowerBar
